@@ -1,25 +1,4 @@
-# flask-webapp
-
-A minimal web app developed with [Flask] framework. 
-
-The main purpose is to introduce how to implement the essential elements in web application with Flask, including
-
-- URL Building
-
-- Authentication with Sessions
-
-- Template & Template Inheritance
-
-- Error Handling
-
-- Integrating with *Bootstrap*
-
-- Interaction with Database (SQLite)
-
-- Invoking static resources
-
-For more basic knowledge of Flask, you can refer to [a tutorial on Tutorialspoint](https://www.tutorialspoint.com/flask/).
-
+# PlantoKart WebApp
 
 ## How to Run
 
