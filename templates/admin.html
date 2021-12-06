@@ -2,10 +2,6 @@
 {% block page_title %}Admin Dashboard{% endblock %}
 {% block body %}
     {{ super() }}
-	<li><a href="https://thejawebapp.azurewebsites.net/index.html">Home</a></li>
-	<li><a href="https://thejawebapp.azurewebsites.net/login.html">Login</a></li>
-	<li><a href="https://thejawebapp.azurewebsites.net/public_page.html">Register</a></li>
-
     
     {# only invoked when failed adding new ID due to duplication #}
     {% if id_to_add_is_duplicated %}
